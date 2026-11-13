@@ -1,0 +1,16 @@
+{
+  "name": "مثلثات دهم — فصل ۲",
+  "short_name": "مثلثات",
+  "description": "آموزش و آزمون حساب مثلثاتی — فصل ۲ ریاضی دهم",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f1f3f9",
+  "theme_color": "#4f46e5",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
